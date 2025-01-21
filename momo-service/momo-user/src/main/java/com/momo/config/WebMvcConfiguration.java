@@ -1,6 +1,6 @@
 package com.momo.config;
 
-import com.azaz.interceptor.TokenInterceptor;
+import com.momo.interceptor.TokenInterceptor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
@@ -10,7 +10,6 @@ import javax.annotation.Resource;
 
 /**
  * 配置类，注册web层相关组件
- * @author shigc
  */
 @Configuration
 @Slf4j
