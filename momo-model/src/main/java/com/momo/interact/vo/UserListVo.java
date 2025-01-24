@@ -1,5 +1,6 @@
 package com.momo.interact.vo;
 
+import com.momo.user.vo.UserPersonalInfoVo;
 import lombok.Builder;
 import lombok.Data;
 

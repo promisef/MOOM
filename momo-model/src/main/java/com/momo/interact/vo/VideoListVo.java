@@ -1,5 +1,6 @@
 package com.momo.interact.vo;
 
+import com.momo.video.vo.VideoDetail;
 import lombok.Builder;
 import lombok.Data;
 

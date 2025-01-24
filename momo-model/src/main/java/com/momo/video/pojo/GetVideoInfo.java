@@ -2,6 +2,7 @@ package com.momo.video.pojo;
 
 import lombok.Data;
 
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -21,4 +22,5 @@ public class GetVideoInfo {
      * 最后一个视频的id
      */
     private Integer lastVideoId;
+
 }
